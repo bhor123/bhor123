@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @bhor123
-- 👀 I’m interested in deep learning ...
+- 👀 I’m interested in problem solving and data structures,web development
+- And machine learning enthusiast.
 -
 
 <!---
